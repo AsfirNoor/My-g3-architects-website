@@ -147,7 +147,7 @@ main {
 
 .ten-years-badge h2 {
     font-size: 4rem;
-    margin:0 ;
+    margin: 0;
 }
 
 .ten-years-badge p {
@@ -200,7 +200,20 @@ main {
 
 /* footer styles */
 
-
+footer {
+    border-radius: 8px;
+    background: #FFF4E7;
+    color: #424242;
+    margin-left: 240px;
+    margin-right: 240px;
+    padding: 38px 40px;
+    height: 0px;
+    text-align: center;
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    
+}
 
 
 /* responsive media queries */
@@ -242,6 +255,11 @@ main {
 
     .facts-card-container {
         gap: 20px;
+    }
+    footer{
+        margin: auto;
+        padding: auto;
+        font-size:0.75rem ;
     }
 }
 

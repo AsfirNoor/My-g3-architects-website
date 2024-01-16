@@ -138,7 +138,7 @@ main {
     border-radius: 8px;
     background: #FF900E;
     color: #FFF;
-    width: 342px;
+    width: 340px;
     padding: 40px;
     text-align: center;
     position: relative;
@@ -147,7 +147,7 @@ main {
 
 .ten-years-badge h2 {
     font-size: 4rem;
-    margin: 0;
+    margin:0 ;
 }
 
 .ten-years-badge p {
@@ -225,7 +225,7 @@ main {
 
     .ten-years-badge {
         position: static;
-        max-width: 250px;
+        max-width: 240px;
     }
 
     .teams-img-container {
